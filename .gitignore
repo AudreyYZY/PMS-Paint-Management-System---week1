@@ -1,0 +1,12 @@
+# .NET build files
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# VS Code local settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
